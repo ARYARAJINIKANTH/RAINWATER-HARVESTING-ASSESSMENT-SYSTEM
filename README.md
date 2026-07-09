@@ -332,7 +332,6 @@ is available below.
 
 **Google Drive Video Link:**
 
-```text
 (https://drive.google.com/file/d/1jKfg_OBCYm-9tX2S8J30TCJXBqkOtuYl/view?usp=drivesdk)
 ---
 
